@@ -2,4 +2,30 @@
     <string name="app_name">ShoeStore</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email">Enter e-mail</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="not_a_user_register">Not a user? Register</string>
+    <string name="instructions_2">To add a new one, click on button with a + sign</string>
+    <string name="instructions">On the next screen you can check all shoes</string>
+    <string name="button">Button</string>
+    <string name="welcome_bottom">Please fell free to shop</string>
+    <string name="welcome_upper">Welcome to Shoe Store</string>
+    <string name="btn_welcome_next">Next</string>
+    <string name="floating_action_button">floating action button</string>
+    <string name="size">Insert size</string>
+    <string name="name">Insert your name</string>
+    <string name="company">Insert company</string>
+    <string name="description"> Insert description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="details_tv_name">Name:</string>
+    <string name="details_tv_size">Size</string>
+    <string name="details_tv_company">Company</string>
+    <string name="details_tv_description">Description</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="shoe_list">Shoe List</string>
 </resources>
